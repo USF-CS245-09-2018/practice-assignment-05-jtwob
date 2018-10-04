@@ -1,3 +1,1 @@
-# CS 245 (Fall, 2018) Practice Assignment 05
-
-See assignment details on Canvas.
+https://docs.google.com/spreadsheets/d/1vwfTljeuq_g4G9B3FrdFc8IwZWXsfZws8S6nNjgnpsM/edit?usp=sharing
